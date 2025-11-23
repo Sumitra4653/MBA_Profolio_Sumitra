@@ -26,5 +26,12 @@
     "title": "Home",
     "section": "Contact",
     "text": "Contact\nIf you would like to connect about collaboration or opportunities,\nplease visit the Contact page."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Resume\nThis is a test of the resume page.\nIf you can see this text on the website, the page is working."
   }
 ]
