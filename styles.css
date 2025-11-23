@@ -41,3 +41,19 @@ h2 {
   font-weight: 600;
   color: #A200D6;
 }
+/* Resume Page Background */
+#resume-page {
+  background: linear-gradient(135deg, #8026FF, #FF66C4);
+  padding: 40px;
+  border-radius: 12px;
+  color: white;
+  margin-top: 20px;
+}
+
+/* Resume headings */
+#resume-page h2,
+#resume-page h3 {
+  color: white !important;
+  border-left: 4px solid #C42FFF;
+  padding-left: 10px;
+}

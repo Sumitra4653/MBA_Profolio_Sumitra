@@ -3,7 +3,81 @@ title: "Resume"
 page-layout: full
 ---
 
+::: {.hero-banner}
 # Resume
+### Sumitra Ghalley · MBA Candidate · University Canada West
+:::
 
-This is a test of the resume page.  
-If you can see this text on the website, the page is working.
+[📄 *Download my Resume (PDF)*](Sumitra_resume.pdf)
+
+---
+
+::: {.section-card}
+## Professional Summary
+
+ My background is in media and marketing. My career started as marketing officer with enhacing hands-on experience on branding, plan campaign, and customer engagement. Currently through pursuing MBA, I am exploring to creative marketing insights with analytical and strategic decision making to support business growth and innovation.
+:::
+
+---
+
+::: {.section-card}
+## Education
+
+### Master of Business Administration (MBA)  
+University Canada West, Vancouver, BC  
+*Expected graduation:* 2026  
+
+*Relevant courses:*  
+Operations Management, Digital Transformation, Marketing Management, People Analytics  
+:::
+
+---
+
+::: {.section-card}
+## Experience
+
+### SALES ASSOCIATE — Border Burrito  
+Burnaby, Canada · January 2025 – Present
+
+- Provide customer service, greet customers, and offer product recommendations  
+- Ensure store presentation (arranging shelves, keeping clean workspace)  
+- Inventory management and order support  
+
+### MARKETING OFFICER — Sherza Allstore  
+Thimphu, Bhutan · January 2020 – December 2021
+
+- Executed marketing campaigns to boost brand awareness  
+- Managed social media and digital content to improve customer engagement  
+- Collaborated with cross-functional teams to maintain brand consistency  
+:::
+
+---
+
+::: {.section-card}
+## Skills
+
+- *Marketing Strategy:* Content creation, branding, communication  
+- *Digital Tools:* MS Word, Excel, PowerPoint, Quarto, GitHub, VS Code  
+- *Leadership:* Team supervision, problem-solving  
+- *Research & Analytics:* Fact verification, media trend analysis  
+- *Languages:* English, Dzongkha, Nepali, Hindi  
+:::
+
+---
+
+::: {.section-card}
+## Certifications & Training
+
+- Graphic Designer Intern — Zhung Dratshang of Bhutan (2022)  
+- Global Marketing Course (Coursera)  
+:::
+
+---
+
+::: {.section-card}
+## Activities & Interests
+
+- Group assignments and presentations in MBA program  
+- Volunteering & community involvement  
+- Interest in reading, learning new tools, and digital designing  
+:::
