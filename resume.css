@@ -1,25 +1,50 @@
-/* Resume Page Styles — Navy + Teal Theme */
+/* Resume Page Styling – Navy + Teal */
 
-/* Hero banner */
-.hero-banner {
-  background: linear-gradient(135deg, #001f3f, #39CCCC);
+/* Full-page background */
+body {
+  background: linear-gradient(135deg, #001f3f, #39cccc);
   color: white;
+}
+
+/* Hero banner (top section) */
+.hero-banner {
+  background: linear-gradient(135deg, #003366, #009999);
   padding: 60px 30px;
+  color: white;
   text-align: center;
-  border-radius: 10px;
-  margin-bottom: 30px;
+  border-radius: 12px;
+  margin-bottom: 40px;
 }
 
-/* Section cards */
+.hero-banner h2 {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.hero-banner h3 {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+/* Section title boxes */
 .section-card {
-  background: #f0f8f8;
-  border-left: 4px solid #39CCCC;
+  background: rgba(255,255,255,0.15);
   padding: 20px;
-  margin-bottom: 20px;
-  border-radius: 6px;
+  border-left: 5px solid #00ffff;
+  margin-bottom: 25px;
+  border-radius: 10px;
 }
 
-/* Headings */
+/* Section headings */
 h2, h3 {
-  color: #001f3f;
+  color: #ffffff !important;
+}
+
+/* Resume PDF link */
+a {
+  color: #00ffff;
+  font-weight: 600;
+}
+a:hover {
+  color: #e0ffff;
 }
