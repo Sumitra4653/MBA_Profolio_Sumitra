@@ -1,0 +1,18 @@
+---
+title: "Home"
+description: "About Sumitra Ghalley"
+---
+
+# Welcome to My MBA Portfolio
+
+Hello! I'm *Sumitra Ghalley*, an MBA candidate at University Canada West.  
+This portfolio showcases my coursework, projects, skills, and professional experience.
+
+## What You Will Find Here
+
+- *Resume* – My education, experience, and professional background  
+- *Projects* – Key MBA assignments and case studies  
+- *Skills* – Business, analytics, marketing, and operations skills  
+- *Contact* – Email, phone, and location  
+
+Feel free to explore each section using the navigation bar above.
