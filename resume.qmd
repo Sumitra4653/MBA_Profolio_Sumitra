@@ -1,6 +1,9 @@
 ---
 title: "Resume"
 page-layout: full
+format:
+  html:
+    css: resume.css
 ---
 
 ::: {.hero-banner}
