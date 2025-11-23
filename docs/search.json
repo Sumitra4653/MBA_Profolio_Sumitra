@@ -1,37 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "MBA Candidate · University Canada West\n\n\n\nI am an MBA candidate at University Canada West with interests in\noperations, digital transformation, and data-driven decision making.\nThis portfolio highlights selected coursework, projects, and skills that\ndemonstrate my analytical thinking, collaboration, and communication.\n\n\n\n\n\n\n\nSummary of my education, professional experience, and key achievements.\nView resume\n\n\n\n\nSelected MBA course projects, case analyses, and group assignments.\nExplore projects\n\n\n\n\nBusiness, analytics, and technical skills developed during my MBA.\nSee skills\n\n\n\n\n\n\n\nBuilding a strong foundation in operations and process improvement\nApplying data and analytics to support better business decisions\nDeveloping teamwork, leadership, and presentation skills\nPreparing for roles in business analysis, operations, or consulting\n\n\n\n\nIf you would like to connect about collaboration or opportunities,\nplease visit the Contact page."
-  },
-  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Home",
-    "section": "",
-    "text": "I am an MBA candidate at University Canada West with interests in\noperations, digital transformation, and data-driven decision making.\nThis portfolio highlights selected coursework, projects, and skills that\ndemonstrate my analytical thinking, collaboration, and communication."
+    "section": "About Me",
+    "text": "About Me\nI am an MBA candidate at University Canada West with interests in\noperations, digital transformation, and data-driven decision making.\nThis portfolio highlights selected coursework, projects, and skills that\ndemonstrate my analytical thinking, collaboration, and communication."
   },
   {
     "objectID": "index.html#portfolio-overview",
     "href": "index.html#portfolio-overview",
     "title": "Home",
-    "section": "",
-    "text": "Summary of my education, professional experience, and key achievements.\nView resume\n\n\n\n\nSelected MBA course projects, case analyses, and group assignments.\nExplore projects\n\n\n\n\nBusiness, analytics, and technical skills developed during my MBA.\nSee skills"
+    "section": "Portfolio Overview",
+    "text": "Portfolio Overview\n\n\n\nResume\nSummary of my education, professional experience, and key achievements.\nView resume\n\n\n\nProjects\nSelected MBA course projects, case analyses, and group assignments.\nExplore projects\n\n\n\nSkills\nBusiness, analytics, and technical skills developed during my MBA.\nSee skills"
   },
   {
     "objectID": "index.html#current-focus",
     "href": "index.html#current-focus",
     "title": "Home",
-    "section": "",
-    "text": "Building a strong foundation in operations and process improvement\nApplying data and analytics to support better business decisions\nDeveloping teamwork, leadership, and presentation skills\nPreparing for roles in business analysis, operations, or consulting"
+    "section": "Current Focus",
+    "text": "Current Focus\n\nBuilding a strong foundation in operations and process improvement\nApplying data and analytics to support better business decisions\nDeveloping teamwork, leadership, and presentation skills\nPreparing for roles in business analysis, operations, or consulting"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Home",
-    "section": "",
-    "text": "If you would like to connect about collaboration or opportunities,\nplease visit the Contact page."
+    "section": "Contact",
+    "text": "Contact\nIf you would like to connect about collaboration or opportunities,\nplease visit the Contact page."
   }
 ]

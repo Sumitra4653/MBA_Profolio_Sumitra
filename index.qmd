@@ -2,6 +2,10 @@
 title: "Home"
 page-layout: full
 ---
+::: {.hero-banner}
+# Welcome to My MBA Portfolio
+### Sumitra Ghalley · MBA Candidate · University Canada West
+:::
 
 # Sumitra Ghalley
 
