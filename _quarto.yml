@@ -19,5 +19,6 @@ website:
 
 format:
   html:
-    theme: quartz
-    
+    theme: cosmo    # clean, professional Bootstrap theme
+    toc: false
+

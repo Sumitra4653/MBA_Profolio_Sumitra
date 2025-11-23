@@ -1,18 +1,51 @@
 ---
 title: "Home"
-description: "About Sumitra Ghalley"
+page-layout: full
 ---
 
-# Welcome to My MBA Portfolio
+# Sumitra Ghalley
 
-Hello! I'm *Sumitra Ghalley*, an MBA candidate at University Canada West.  
-This portfolio showcases my coursework, projects, skills, and professional experience.
+MBA Candidate · University Canada West  
 
-## What You Will Find Here
+---
 
-- *Resume* – My education, experience, and professional background  
-- *Projects* – Key MBA assignments and case studies  
-- *Skills* – Business, analytics, marketing, and operations skills  
-- *Contact* – Email, phone, and location  
+## About Me
 
-Feel free to explore each section using the navigation bar above.
+I am an MBA candidate at *University Canada West* with interests in  
+operations, digital transformation, and data-driven decision making.  
+This portfolio highlights selected coursework, projects, and skills that  
+demonstrate my analytical thinking, collaboration, and communication.
+
+## Portfolio Overview
+
+:::{.columns}
+::: {.column width="33%"}
+### Resume  
+Summary of my education, professional experience, and key achievements.  
+[View resume](resume.qmd)
+:::
+
+::: {.column width="33%"}
+### Projects  
+Selected MBA course projects, case analyses, and group assignments.  
+[Explore projects](projects.qmd)
+:::
+
+::: {.column width="33%"}
+### Skills  
+Business, analytics, and technical skills developed during my MBA.  
+[See skills](skills.qmd)
+:::
+:::
+
+## Current Focus
+
+- Building a strong foundation in *operations and process improvement*
+- Applying *data and analytics* to support better business decisions
+- Developing *teamwork, leadership, and presentation* skills
+- Preparing for roles in *business analysis, operations, or consulting*
+
+## Contact
+
+If you would like to connect about collaboration or opportunities,  
+please visit the [Contact](contact.qmd) page.
