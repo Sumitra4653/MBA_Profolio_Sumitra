@@ -192,15 +192,15 @@ body {
   margin-top: 20px;
 }
 
-/* About Me Photo */
-.about-photo img {
-  width: 180px;
+/* Profile photo on home page */
+.profile-photo {
+  width: 180px;          /* size */
   height: 180px;
-  border-radius: 50%;
-  object-fit: cover;
+  object-fit: cover;     /* keeps face centered */
+  border-radius: 50%;     /* makes it a circle */
+  border: 4px solid #c42fff; /* purple border */
   margin-left: 20px;
-  float: right;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  float: right;          /* moves image to the right */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
-
 

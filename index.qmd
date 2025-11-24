@@ -15,31 +15,23 @@ MBA Candidate · University Canada West
 
 ## About Me
 
-::: {.about-photo}
-![My Photo](assets/images/myphoto.jpg)
-:::
-
-I am an MBA candidate at *University Canada West* with interests in  
-operations, digital transformation, and data-driven decision making.  
-This portfolio highlights selected coursework, projects, and skills that  
-demonstrate my analytical thinking, collaboration, and communication.
-
 <div style="display: flex; align-items: center; gap: 20px;">
+  
+  <img src="assets/images/myphoto.jpg"
+       style="width:180px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"
+       alt="My Photo">
 
-<div>
-I am an MBA candidate at *University Canada West*...
-</div>
-
-<img src="assets/images/mypic.jpg" 
-     style="width:180px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);" 
-     alt="My Photo">
+  <div>
+    I am an MBA candidate at University Canada West with interests in
+    operations, digital transformation, and data-driven decision making.
+    This portfolio highlights selected coursework, projects, and skills that
+    demonstrate my analytical thinking, collaboration, and communication.
+  </div>
 
 </div>
 
 ## Portfolio Overview
 
-:::{.columns}
-::: {.column width="33%"}
 ### Resume  
 Summary of my education, professional experience, and key achievements.  
 [View resume](resume.qmd)
