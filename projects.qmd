@@ -2,13 +2,11 @@
 title: "Projects and Case Studies"
 ---
 
-# Projects and Case Studies
-
 This page highlights selected projects and assignments from my MBA program and work experiences. Each project includes the problem, my approach, and what I learned.
 
 <div class="project-card">
 
-## 2. Social Media & Brand Awareness Campaign
+## 1. Social Media & Brand Awareness Campaign
 
 *Role*: Marketing Officer  
 
@@ -16,50 +14,49 @@ This page highlights selected projects and assignments from my MBA program and w
 The company needed improvement in social media engagement and consistent messaging.
 
 *What I Did*  
-- Created and scheduled digital content  
-- Coordinated with the marketing team  
-- Suggested task sequencing and visual consistency improvements  
+- Created and scheduled digital contents  
+- Coordinated marketing and communication with the team.     
+- Suggested small improvements such as better task sequencing and clearer responsibilities and ensured visual consistency.    
 
 *What I Learned*  
-I learned to plan and schedule digital content effectively and understood the importance of unified visual style for brand messaging.
+I learned the ways to plan and schedule digital content effectively, which eventually help me understand the role of consistency to improve the social media engagement. Working closely with the marketing team enhance my communication and coordination skills. It made me realized how small process improvements such as organizing tasks more clearly and defining responsibilities will  make the team work more efficiently. Moreover, I gained a better understanding of visual consistency and its impacts on unified brand messaging.
 
 </div>
 
 <div class="project-card">
 
-## 3. Customer Experience & Store Presentation Improvement
+## 2. Customer Experience & Store Presentation Improvement
 
-*Role*: People Management / HR  
+*Role*: Sales Associate  
 
 *Problem*  
-The store’s presentation and product arrangement needed improvement.
+The store’s presentation and product arrangement needed improvement to create a better shopping experience for customers.
 
 *What I Did*  
-- Organized shelves  
-- Assisted customers  
-- Helped manage inventory and daily stock  
+- Organized shelves and maintained visual layout.   
+- Assisted the customers and answered product questions in a friendly ways.    
+- Helped to manage inventory and daily stocks.     
 
 *What I Learned*  
-I learned how store layout and presentation affect customer experience and gained experience in inventory and customer service tasks.
+I learned to the importance of maintaining an visually appealing store layout and its impact on customer experience. With this experience my communication and customer-service skills were improved. I also gained practical experience in handling inventory and daily stock management, helping me understand how proper product availability and organization support smooth store operations.
 
 </div>
 
 <div class="project-card">
 
-## 4. Applying Marketing Segmentation
+## 3. Applying Marketing Segmentation
 
 *Course*: Marketing Management  
 *Type*: Short written assignment  
 
 *Context*  
-I analyzed a consumer product using segmentation.
+I analyzed a consumer product using basic segmentation concepts.
 
 *What I Did*  
-- Described the product  
-- Identified target audience  
-- Suggested channels and positioning  
+- Described the product and its benefits  
+- Defined a target market using demographic and psychographic factors.   
+- Suggested a possible positioning statement and simple digital channels to reach this audience.    
 
 *What I Learned*  
-Segmentation helps marketers focus their message on a clear audience.
-
+I learned how segmentation and positioning help marketers focus their message on a specific group instead of trying to appeal to everyone at once.
 </div>
