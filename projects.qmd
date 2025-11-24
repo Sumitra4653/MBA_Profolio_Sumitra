@@ -62,5 +62,5 @@ I learned how segmentation and positioning help marketers focus their message on
 </div>
 
 *Download Report (PDF)*  
-[Click here to view the full PDF](docs/MRKCaseStudy.pdf){target="_blank"}
+[Click here to view the full PDF](files/MRKCaseStudy.pdf){target="_blank"}
 
