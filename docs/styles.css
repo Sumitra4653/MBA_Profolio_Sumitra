@@ -43,10 +43,10 @@ h2 {
 }
 /* Resume Page Background */
 #resume-page {
-  background: linear-gradient(135deg, #8026FF, #FF66C4);
+  background: linear-gradient(135deg, #ff66c4, #a259ff);
   padding: 40px;
   border-radius: 12px;
-  color: white;
+  color: #333;       /* normal readable text */
   margin-top: 20px;
 }
 
@@ -182,3 +182,13 @@ body {
   color: #008080;
   font-weight: 500;
 }
+
+/* Resume page hero background */
+#title-block-header.hero-banner {
+  background: linear-gradient(135deg, #ff66c4, #a259ff) !important;
+  color: white !important;
+  border-radius: 12px;
+  padding: 40px;
+  margin-top: 20px;
+}
+

@@ -183,11 +183,12 @@ body {
   font-weight: 500;
 }
 
-/* Resume Page Background */
-#resume-page {
-  background: linear-gradient(135deg, #ff66c4, #a259ff);  /* pink → purple */
-  padding: 40px;
+/* Resume page hero background */
+#title-block-header.hero-banner {
+  background: linear-gradient(135deg, #ff66c4, #a259ff) !important;
+  color: white !important;
   border-radius: 12px;
-  color: #333;              /* normal readable text */
+  padding: 40px;
   margin-top: 20px;
 }
+
