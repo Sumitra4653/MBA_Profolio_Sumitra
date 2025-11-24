@@ -43,7 +43,7 @@ h2 {
 }
 /* Resume Page Background */
 #resume-page {
-  background: none;
+  background: linear-gradient(135deg, #ff66c4, #a259ff);
   padding: 40px;
   border-radius: 12px;
   color: #333;       /* normal readable text */
@@ -181,4 +181,13 @@ body {
 .contact-card a {
   color: #008080;
   font-weight: 500;
+}
+
+/* Resume Page Background */
+#resume-page {
+  background: linear-gradient(135deg, #ff66c4, #a259ff);  /* pink → purple */
+  padding: 40px;
+  border-radius: 12px;
+  color: #333;              /* normal readable text */
+  margin-top: 20px;
 }
