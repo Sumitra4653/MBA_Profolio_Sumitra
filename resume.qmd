@@ -11,8 +11,7 @@ format:
 ### Sumitra Ghalley · MBA Candidate · University Canada West
 :::
 
-[📄 *Download my Resume (PDF)*](Sumitraresume.pdf)
-
+[📄 Download my Resume (PDF)](files/Sumitraresume.pdf){target="_blank"}
 ---
 
 ::: {.section-card}
