@@ -1,0 +1,60 @@
+---
+title: "Skills"
+---
+
+This page highlights my technical, professional, and interpersonal skills developed through my MBA studies and work experience.
+
+---
+
+<div class="skill-grid">
+
+<div class="skill-card">
+
+### Technical & Tools
+
+- Microsoft Excel (basic analysis, tables, charts)  
+- Microsoft Word (academic and professional writing)  
+- PowerPoint (presentations and slides)  
+- Quarto and Markdown for reports  
+- Canva for simple visual design  
+- Basic use of digital / social media tools  
+
+</div>
+
+<div class="skill-card">
+
+### Professional Skills
+
+- Time management and meeting deadlines  
+- Task planning and prioritization  
+- Problem solving in practical situations  
+- Attention to detail in documents and reports  
+- Basic project coordination and follow-up  
+- Ability to learn new tools quickly  
+
+</div>
+
+<div class="skill-card">
+
+### Communication Skills
+
+- Clear written communication  
+- Professional email writing  
+- Creating and delivering presentations   
+- Cross-cultural communication   
+
+</div>
+
+<div class="skill-card">
+
+### Teamwork & Leadership
+
+- Working effectively in group projects  
+- Supporting teammates and sharing responsibilities  
+- Taking initiative on small tasks and improvements  
+- Reliable, consistent work ethic  
+- Respectful and supportive attitude in diverse teams  
+
+</div>
+
+</div>
