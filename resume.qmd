@@ -7,7 +7,7 @@ format:
 ---
 
 ::: {.hero-banner}
-# Resume
+
 ### Sumitra Ghalley · MBA Candidate · University Canada West
 :::
 
