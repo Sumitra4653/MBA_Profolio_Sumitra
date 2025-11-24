@@ -8,25 +8,6 @@ This page highlights selected projects and assignments from my MBA program and w
 
 <div class="project-card">
 
-## 1. Service Process Improvement
-
-*Course*: Operations Management  
-*Type*: Mini Case Study  
-
-*Context*  
-I analyzed a simple service process…
-
-*What I Did*  
-- …
-- …
-
-*What I Learned*  
-…
-
-</div>
-
-<div class="project-card">
-
 ## 2. Social Media & Brand Awareness Campaign
 
 *Role*: Marketing Officer  
