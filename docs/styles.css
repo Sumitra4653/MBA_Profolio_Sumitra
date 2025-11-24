@@ -57,3 +57,52 @@ h2 {
   border-left: 4px solid #C42FFF;
   padding-left: 10px;
 }
+/* ======= PROJECT CARDS ======= */
+
+.project-card {
+  background-color: #ffffff;
+  border-left: 4px solid #008080; /* teal */
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.2rem;
+  border-radius: 4px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.project-card h2,
+.project-card h3 {
+  margin-top: 0;
+}
+
+/* ======= COLOURS (NAVY + TEAL THEME) ======= */
+
+/* Navbar */
+.navbar {
+  background-color: #001f3f !important; /* navy */
+}
+
+.navbar a {
+  color: #ffffff !important;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #001f3f; /* navy */
+}
+
+/* Links */
+a {
+  color: #008080; /* teal */
+}
+
+a:hover {
+  color: #004f4f;
+}
+
+/* Background */
+body {
+  background-color: #f7f9fc;
+}

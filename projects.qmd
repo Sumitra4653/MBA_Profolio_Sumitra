@@ -1,0 +1,84 @@
+---
+title: "Projects and Case Studies"
+---
+
+# Projects and Case Studies
+
+This page highlights selected projects and assignments from my MBA program and work experiences. Each project includes the problem, my approach, and what I learned.
+
+<div class="project-card">
+
+## 1. Service Process Improvement
+
+*Course*: Operations Management  
+*Type*: Mini Case Study  
+
+*Context*  
+I analyzed a simple service process…
+
+*What I Did*  
+- …
+- …
+
+*What I Learned*  
+…
+
+</div>
+
+<div class="project-card">
+
+## 2. Social Media & Brand Awareness Campaign
+
+*Role*: Marketing Officer  
+
+*Problem*  
+The company needed improvement in social media engagement and consistent messaging.
+
+*What I Did*  
+- Created and scheduled digital content  
+- Coordinated with the marketing team  
+- Suggested task sequencing and visual consistency improvements  
+
+*What I Learned*  
+I learned to plan and schedule digital content effectively and understood the importance of unified visual style for brand messaging.
+
+</div>
+
+<div class="project-card">
+
+## 3. Customer Experience & Store Presentation Improvement
+
+*Role*: People Management / HR  
+
+*Problem*  
+The store’s presentation and product arrangement needed improvement.
+
+*What I Did*  
+- Organized shelves  
+- Assisted customers  
+- Helped manage inventory and daily stock  
+
+*What I Learned*  
+I learned how store layout and presentation affect customer experience and gained experience in inventory and customer service tasks.
+
+</div>
+
+<div class="project-card">
+
+## 4. Applying Marketing Segmentation
+
+*Course*: Marketing Management  
+*Type*: Short written assignment  
+
+*Context*  
+I analyzed a consumer product using segmentation.
+
+*What I Did*  
+- Described the product  
+- Identified target audience  
+- Suggested channels and positioning  
+
+*What I Learned*  
+Segmentation helps marketers focus their message on a clear audience.
+
+</div>
