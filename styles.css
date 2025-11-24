@@ -43,10 +43,10 @@ h2 {
 }
 /* Resume Page Background */
 #resume-page {
-  background: linear-gradient(135deg, #8026FF, #FF66C4);
+  background: none;
   padding: 40px;
   border-radius: 12px;
-  color: white;
+  color: #333;       /* normal readable text */
   margin-top: 20px;
 }
 
