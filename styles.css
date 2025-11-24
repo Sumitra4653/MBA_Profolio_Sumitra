@@ -57,6 +57,7 @@ h2 {
   border-left: 4px solid #C42FFF;
   padding-left: 10px;
 }
+
 /* ======= PROJECT CARDS ======= */
 
 .project-card {
@@ -106,6 +107,7 @@ a:hover {
 body {
   background-color: #f7f9fc;
 }
+
 /* Navbar: navy background, white text */
 .navbar {
   background-color: #001f3f !important;  /* navy */
@@ -119,6 +121,7 @@ body {
 .navbar-nav .nav-link:hover {
   text-decoration: underline;
 }
+
 /* ===== SKILL CARDS ===== */
 
 .skill-grid {
